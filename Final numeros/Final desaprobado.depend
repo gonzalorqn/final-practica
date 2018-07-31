@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1532403580 source:c:\users\manu\desktop\final desaprobado\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Arraylist.h"
+
+1532403580 c:\users\manu\desktop\final desaprobado\arraylist.h
+
+1532421156 source:c:\users\manu\desktop\final desaprobado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"numero.h"
+
+1532421135 c:\users\manu\desktop\final desaprobado\numero.h
+	"Arraylist.h"
+
+1532420160 source:c:\users\manu\desktop\final desaprobado\numero.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"numero.h"
+
